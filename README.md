@@ -17,12 +17,6 @@ Use the package manager [yarn](https://yarnpkg.com/).
 ```bash
 yarn install
 ```
-### Make a .env.local file
-```bash
-touch .env.local
-```
-### Add env variables in .env.local
-Add env variables provided
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License
